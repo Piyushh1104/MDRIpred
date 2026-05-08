@@ -14,7 +14,7 @@ Singla, D., Tewari, R., Kumar, A., & Raghava, G. P. S. (2013).
 **Designing of inhibitors against drug tolerant Mycobacterium tuberculosis (H37Rv).**  
 Chemistry Central Journal, 7, 49.  
 https://doi.org/10.1186/1752-153X-7-49
-
+https://doi.org/10.5281/zenodo.20081512
 ---
 
 # About the Study
